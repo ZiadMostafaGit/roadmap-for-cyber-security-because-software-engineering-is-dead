@@ -1,1098 +1,1278 @@
-# roadmap-for-cyber-security-becase-software-engineering-is-dead
+# 🔴 BUDGET-FRIENDLY 24-MONTH GOD-TIER RED TEAM ROADMAP 🔴
+## From ITSM Engineer to Elite Red Team Operator (AFFORDABLE VERSION FOR EGYPT)
 
-# 🔴 ULTIMATE 18-MONTH RED TEAM ENGINEER ROADMAP 🔴
-## From ITSM Engineer to Elite Red Team Operator
-
-**Target:** Land a Red Team Engineer/Offensive Security Engineer role
-**Time Commitment:** 10 hours/day, 5 days/week (50 hours/week)
-**Total Hours:** ~3,900 hours of pure red team training
-**Philosophy:** Learn by DOING, break things, build things, become dangerous
-
----
-
-## 📋 QUICK NAVIGATION
-- [Phase 1: Foundation (Months 1-4)](#phase-1-foundation-months-1-4)
-- [Phase 2: Offensive Operations (Months 5-9)](#phase-2-offensive-operations-months-5-9)
-- [Phase 3: Advanced Red Team (Months 10-14)](#phase-3-advanced-red-team-months-10-14)
-- [Phase 4: Expert & Job Ready (Months 15-18)](#phase-4-expert--job-ready-months-15-18)
-- [Essential Tools & Resources](#essential-tools--resources)
+**Mission:** Become an elite Red Team Engineer using FREE and low-cost resources
+**Monthly Income:** $256 USD (Egypt)
+**Time Commitment:** 10-12 hours/day, 5-6 days/week (60+ hours/week)
+**Total Certification Cost:** ~$2,500-3,000 over 24 months (~$125/month)
+**Philosophy:** Skills > Expensive Certs - Build UNDENIABLE portfolio
+**Outcome:** Companies BEG to hire you based on PROVEN skills, not just certificates
 
 ---
 
-## PHASE 1: FOUNDATION (Months 1-4)
-*Build the absolute fundamentals - No shortcuts here*
+## 💰 AFFORDABLE CERTIFICATION PATH (Total: ~$2,500-3,000)
 
-### MONTH 1: Linux Warfare & Network Mastery
+### Year 1 Certifications (~$1,200):
+1. **ISC2 CC** - **FREE** (training + exam) - Month 3
+2. **PJPT** ($299) - Month 5  
+3. **PNPT** ($499) - Month 8 ⭐
+4. **eJPT** ($249) - Month 10
+5. **PORP** ($199) - Month 12
 
-**Week 1-2: Linux Deep Dive**
-- **TryHackMe**:
-  - Linux Fundamentals Part 1: https://tryhackme.com/room/linuxfundamentalspart1
-  - Linux Fundamentals Part 2: https://tryhackme.com/room/linuxfundamentalspart2
-  - Linux Fundamentals Part 3: https://tryhackme.com/room/linuxfundamentalspart3
-  - Linux Privilege Escalation: https://tryhackme.com/room/linprivesc
-  - Linux PrivEsc: https://tryhackme.com/room/linuxprivesc
-- **Hack The Box Academy** (Tier 0 - FREE):
-  - Linux Fundamentals: https://academy.hackthebox.com/course/preview/linux-fundamentals
-  - Linux File System: https://academy.hackthebox.com/module/details/18
-- **Practice**:
-  - Set up Kali Linux as your main OS
-  - Build a home lab with VirtualBox/VMware
-  - Install: Ubuntu, Kali, ParrotOS, Debian
-  - Master: vim, tmux, ssh, netcat, socat
-- **Reading**:
-  - The Linux Command Line (free PDF): http://linuxcommand.org/tlcl.php
+### Year 2 Certifications (~$1,300):
+6. **CRTP** ($249) - Month 15 ⭐⭐
+7. **PWPA** ($299) - Month 17
+8. **CRTO** ($499) - Month 20 ⭐⭐⭐
+9. **PWPP** ($449) - Month 22
+
+### Optional (Save up for):
+10. **OSCP** ($1,649) - Month 24+ (if you can save)
+
+**TOTAL: ~$2,741 over 24 months = $114/month average**
+**WITH DISCOUNTS: ~$2,200 (20% student discount on many)**
+
+---
+
+## 🎯 WHY THIS WORKS (Even Better Than Expensive Certs!)
+
+### Advantages Over Expensive Route:
+1. **PNPT** ($499) = Just as respected as OSCP for many jobs
+2. **CRTP** ($249) = Better AD cert than many $8,000+ certs
+3. **CRTO** ($499) = Elite red team ops, 1/10th the price of SANS
+4. **Portfolio Projects** = Worth more than any certification
+5. **Bug Bounty Earnings** = Will PAY you while learning
+6. **Practical Skills** = All these certs are 100% hands-on
+
+### Why Employers Will Choose YOU:
+- **20+ Custom Tools** on GitHub (beats any cert)
+- **50+ Technical Writeups** (shows you can communicate)
+- **Multiple CVE Discoveries** (proves research ability)
+- **Bug Bounty Success** (real-world validation)
+- **Conference Talks** (thought leadership)
+- **PRACTICAL skills** over theory
+
+---
+
+## 📋 COMPLETE 24-MONTH BREAKDOWN
+
+## PHASE 1: FOUNDATION MASTERY (Months 1-6)
+
+### MONTH 1: LINUX & NETWORKING DOMINATION
+
+**Week 1-2: Linux Mastery**
+- **100% FREE Resources**:
+  - TryHackMe Free Tier (rotate accounts if needed)
   - Linux Journey: https://linuxjourney.com/
+  - OverTheWire Bandit: https://overthewire.org/
+  - Professor Messer Linux+: YouTube (FREE)
+  - The Linux Command Line (free PDF)
+- **Practice**:
+  - Install Kali Linux
+  - Build VirtualBox home lab
+  - Root 20+ VulnHub machines (FREE)
+  - Master: vim, tmux, bash scripting
+- **Daily**: 10 hours practice
 
-**Week 3-4: Networking for Hackers**
-- **TryHackMe**:
-  - Introductory Networking: https://tryhackme.com/room/introtonetworking
-  - What is Networking?: https://tryhackme.com/room/whatisnetworking
-  - Intro to LAN: https://tryhackme.com/room/introtolan
-  - Protocols and Servers: https://tryhackme.com/room/protocolsandservers
-  - Network Services: https://tryhackme.com/room/networkservices
-  - Network Services 2: https://tryhackme.com/room/networkservices2
-  - Wireshark 101: https://tryhackme.com/room/wireshark
-- **HTB Academy**:
-  - Introduction to Networking: https://academy.hackthebox.com/course/preview/introduction-to-networking
-- **Hands-on**:
-  - Capture packets with Wireshark
-  - Build network diagrams
-  - Set up VLANs in home lab
-  - Practice port forwarding, tunneling
-- **Book**: TCP/IP Illustrated Vol 1 (read first 5 chapters)
+**Week 3-4: Networking Expert**
+- **FREE Resources**:
+  - Professor Messer Network+: YouTube
+  - TryHackMe free networking rooms
+  - Cisco Packet Tracer (FREE)
+  - Wireshark tutorials (YouTube)
+- **Build**:
+  - Network lab in Packet Tracer
+  - Capture and analyze packets
+  - Practice with netcat, socat
+  - Network diagramming
 
-**Daily Structure:**
-- 6:00-9:00 AM: Theory (TryHackMe/HTB courses)
-- 9:00-12:00 PM: Hands-on labs
-- 12:00-1:00 PM: Break
-- 1:00-4:00 PM: Home lab building
-- 4:00-6:00 PM: Documentation & writeups
+**Cost This Month: $0**
 
 ---
 
-### MONTH 2: Programming & Scripting Arsenal
+### MONTH 2: PROGRAMMING MASTERY
 
 **Week 1-2: Python for Hackers**
-- **TryHackMe**:
-  - Python Basics: https://tryhackme.com/room/pythonbasics
-  - Python for Pentesters: https://tryhackme.com/room/pythonforsecurity
-- **Free Resources**:
-  - Automate the Boring Stuff: https://automatetheboringstuff.com/ (free online)
-  - Python for Hackers Course: https://www.youtube.com/watch?v=5O_ZiBCyz9w (Heath Adams)
-  - Violent Python PDF: https://github.com/reconSF/python-for-security/blob/master/Violent%20Python.pdf
-- **Projects**:
-  - Build a port scanner
-  - Create a simple keylogger
-  - Write a password cracker
-  - Develop a reverse shell
-  - Make a directory brute-forcer
+- **FREE Resources**:
+  - Automate the Boring Stuff (free online)
+  - Python for Pentesters (TCM YouTube)
+  - Violent Python (GitHub PDF)
+  - TryHackMe Python rooms (free tier)
+  - HackerRank Python practice
+- **Build 10 Tools**:
+  1. Port scanner
+  2. Keylogger
+  3. Reverse shell
+  4. Password cracker
+  5. Directory brute-forcer
+  6. Packet sniffer
+  7. Web scraper
+  8. Hash identifier
+  9. Encoding/decoding tool
+  10. Network mapper
 
-**Week 3: Bash/Shell Scripting**
-- **TryHackMe**:
-  - Bash Scripting: https://tryhackme.com/room/bashscripting
-- **HTB Academy**:
-  - Introduction to Bash Scripting: https://academy.hackthebox.com/course/preview/introduction-to-bash-scripting
-- **Practice**:
-  - Automate enumeration
-  - Create log parsing scripts
-  - Build backup automation
-  - Write cleanup scripts
+**Week 3: Bash Scripting God**
+- **FREE Resources**:
+  - Bash Academy: https://guide.bash.academy/
+  - Shell Scripting Tutorial
+  - Linux command line exercises
+- **Create**:
+  - 30+ automation scripts
+  - Enumeration suite
+  - Backup scripts
+  - Cleanup automation
 
-**Week 4: PowerShell for Red Team**
-- **TryHackMe**:
-  - Hacking with PowerShell: https://tryhackme.com/room/powershell
-  - PowerShell for Pentesters: https://tryhackme.com/module/powershell-for-pentesters
-- **Resources**:
-  - PowerShell for Pentesters Course: https://www.youtube.com/playlist?list=PLjG9EfEtwbvIFIuL9GkCp-0rF9F6c5gKi
-  - PowerSploit GitHub: https://github.com/PowerShellMafia/PowerSploit
-  - Nishang GitHub: https://github.com/samratashok/nishang
-- **Projects**:
-  - Write PowerShell enumeration scripts
-  - Create credential harvesters
-  - Build persistence mechanisms
-  - Develop AV bypass scripts
+**Week 4: PowerShell Weaponization**
+- **FREE Resources**:
+  - Microsoft PowerShell docs
+  - PowerShell Gallery
+  - PowerSploit (GitHub)
+  - Nishang (GitHub)
+- **Build**:
+  - 10+ PowerShell attack tools
+  - Enumeration scripts
+  - Persistence mechanisms
+  - AMSI bypass techniques
+
+**Cost This Month: $0**
 
 ---
 
-### MONTH 3: Core Penetration Testing
+### MONTH 3: ISC2 CC CERTIFICATION (FREE!) + WEB HACKING
 
-**Week 1: Reconnaissance & Information Gathering**
-- **TryHackMe**:
-  - Passive Reconnaissance: https://tryhackme.com/room/passiverecon
-  - Active Reconnaissance: https://tryhackme.com/room/activerecon
-  - Content Discovery: https://tryhackme.com/room/contentdiscovery
-  - Subdomain Enumeration: https://tryhackme.com/room/subdomainenumeration
-  - OSINT: https://tryhackme.com/room/ohsint
-  - Google Dorking: https://tryhackme.com/room/googledorking
-- **Tools to Master**:
-  - nmap, masscan, rustscan
+**Week 1-2: ISC2 CC Prep**
+- **FREE Training**:
+  - Sign up as ISC2 Candidate (100% FREE)
+  - Free CC self-paced training
+  - Free CC exam voucher
+  - Practice with free materials
+- **Study Topics**:
+  - Security principles
+  - Business continuity
+  - Access controls
+  - Network security
+  - Security operations
+- **TAKE EXAM**: End of Week 2
+
+**Week 3-4: Web Hacking Foundation**
+- **PortSwigger Academy (100% FREE)**:
+  - Complete 50+ SQL Injection labs
+  - Complete 30+ XSS labs
+  - Complete 20+ Authentication labs
+  - CSRF, SSRF, XXE labs
+  - Command injection labs
+- **Practice Apps (FREE)**:
+  - DVWA
+  - bWAPP
+  - Juice Shop
+  - WebGoat
+
+**Cost This Month: $50 (CC annual maintenance fee only)**
+**Certification Earned: ISC2 CC** ✅
+
+---
+
+### MONTH 4: PENETRATION TESTING FUNDAMENTALS
+
+**Week 1: Reconnaissance Master**
+- **FREE Tools Mastery**:
+  - nmap (expert level)
   - gobuster, ffuf, feroxbuster
-  - subfinder, assetfinder, amass
-  - theHarvester, recon-ng
-  - Shodan, Censys
+  - subfinder, assetfinder
+  - theHarvester
+  - Shodan, Censys (free tier)
+- **Practice**: Map 50+ domains
 
-**Week 2: Exploitation Fundamentals**
-- **TryHackMe**:
-  - Metasploit: Introduction: https://tryhackme.com/room/metasploitintro
-  - Metasploit: Exploitation: https://tryhackme.com/room/metasploitexploitation
-  - Metasploit: Meterpreter: https://tryhackme.com/room/meterpreter
-  - Exploiting Vulnerabilities: https://tryhackme.com/room/exploitingvulnerabilities
-- **HTB Academy**:
-  - Using the Metasploit Framework: https://academy.hackthebox.com/course/preview/using-the-metasploit-framework
-  - Getting Started: https://academy.hackthebox.com/course/preview/getting-started
-
-**Week 3-4: Web Application Hacking Foundations**
-- **PortSwigger Web Security Academy** (FREE - ESSENTIAL):
-  - All SQL Injection labs: https://portswigger.net/web-security/sql-injection
-  - All XSS labs: https://portswigger.net/web-security/cross-site-scripting
-  - All Authentication labs: https://portswigger.net/web-security/authentication
-  - Complete 100+ labs minimum
-- **TryHackMe**:
-  - OWASP Top 10: https://tryhackme.com/room/owasptop10
-  - OWASP Top 10 - 2021: https://tryhackme.com/room/owasptop102021
-  - Burp Suite Basics: https://tryhackme.com/room/burpsuitebasics
-  - Burp Suite Repeater: https://tryhackme.com/room/burpsuiterepeater
-- **Practice Apps**:
-  - DVWA: http://www.dvwa.co.uk/
-  - bWAPP: http://www.itsecgames.com/
-  - WebGoat: https://github.com/WebGoat/WebGoat
-
----
-
-### MONTH 4: Windows Exploitation & Privilege Escalation
-
-**Week 1-2: Windows Fundamentals**
-- **TryHackMe**:
-  - Windows Fundamentals 1: https://tryhackme.com/room/windowsfundamentals1xbx
-  - Windows Fundamentals 2: https://tryhackme.com/room/windowsfundamentals2x0x
-  - Windows Fundamentals 3: https://tryhackme.com/room/windowsfundamentals3xzx
-  - Windows PrivEsc: https://tryhackme.com/room/windows10privesc
-  - Windows Privilege Escalation: https://tryhackme.com/room/windowsprivesc20
-- **HTB Academy**:
-  - Windows Fundamentals: https://academy.hackthebox.com/course/preview/windows-fundamentals
-  - Windows Privilege Escalation: https://academy.hackthebox.com/course/preview/windows-privilege-escalation
-
-**Week 3-4: Privilege Escalation Deep Dive**
-- **Resources**:
-  - PayloadsAllTheThings: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
-  - HackTricks: https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation
-  - Tib3rius Windows PrivEsc Course: https://www.udemy.com/course/windows-privilege-escalation/
+**Week 2: Exploitation**
+- **Metasploit Mastery** (FREE):
+  - Metasploit Unleashed (free course)
+  - Exploit 30+ vulnerable VMs
+  - Write custom modules
+  - Payload generation
 - **Practice**:
-  - Complete 20+ Windows machines on HTB
-  - Use: WinPEAS, PowerUp, PrivescCheck
-  - Practice manual enumeration
-  - Document every privilege escalation path
+  - VulnHub machines (50+)
+  - Exploit-DB exploits
+  - CVE reproduction
+
+**Week 3-4: Web Exploitation Advanced**
+- **PortSwigger** (continue):
+  - Complete ALL 200+ labs
+  - Burp Suite mastery
+  - Advanced techniques
+- **Challenges**:
+  - HackTheBox web challenges (free tier)
+  - Root 20+ web-focused boxes
+
+**Cost This Month: $0**
 
 ---
 
-## PHASE 2: OFFENSIVE OPERATIONS (Months 5-9)
-*Time to get dangerous - Real attack techniques*
+### MONTH 5: PJPT CERTIFICATION + WINDOWS MASTERY
 
-### MONTH 5: Active Directory Domination - Part 1
+**Week 1-2: Windows Deep Dive**
+- **FREE Resources**:
+  - TryHackMe Windows rooms
+  - Windows Internals videos (YouTube)
+  - HackTricks Windows section
+  - VulnHub Windows machines
+- **Master**:
+  - Windows enumeration
+  - PowerShell expertise
+  - Registry manipulation
+  - Service exploitation
 
-**Week 1: AD Fundamentals**
-- **TryHackMe**:
-  - Active Directory Basics: https://tryhackme.com/room/winadbasics
-  - Attacktive Directory: https://tryhackme.com/room/attacktivedirectory
-  - AD Certificate Templates: https://tryhackme.com/room/adcertificatetemplates
-- **Resources**:
-  - AD Security by Sean Metcalf: https://adsecurity.org/
-  - HarmJ0y Blog: https://blog.harmj0y.net/
-  - The Dog Whisperer's Handbook: https://github.com/BloodHoundAD/BloodHound/wiki
-- **Build Your Lab**:
-  - Set up Windows Server 2019/2022
-  - Create domain forest
-  - Add multiple DCs, workstations
-  - Configure OUs, GPOs, trusts
-  - Use: https://github.com/Orange-Cyberdefense/GOAD (Game of Active Directory)
+**Week 3: PJPT Preparation**
+- **TCM Security Academy**:
+  - Purchase PJPT voucher ($299)
+  - Includes training access
+  - Practical Ethical Hacking course
+  - Active Directory basics
+- **Practice**:
+  - Complete all course labs
+  - Practice AD compromise
+  - Document findings
 
-**Week 2: AD Enumeration**
-- **TryHackMe**:
-  - Breaching Active Directory: https://tryhackme.com/room/breachingad
-  - Enumerating Active Directory: https://tryhackme.com/room/adenumeration
-- **Tools**:
-  - BloodHound: https://github.com/BloodHoundAD/BloodHound
-  - SharpHound: https://github.com/BloodHoundAD/SharpHound
-  - PowerView: https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1
-  - ADRecon: https://github.com/sense-of-security/ADRecon
-  - PingCastle: https://www.pingcastle.com/
+**Week 4: PJPT EXAM**
+- **2-day practical exam**
+- **AD environment compromise**
+- **Professional report**
+- **PASS REQUIRED**
 
-**Week 3: AD Attacks - Initial Access**
-- **TryHackMe**:
-  - Exploiting Active Directory: https://tryhackme.com/room/exploitingad
-  - Post-Exploitation Basics: https://tryhackme.com/room/postexploit
-- **Techniques**:
-  - LLMNR/NBT-NS Poisoning (Responder)
-  - SMB Relay attacks
-  - IPv6 DNS takeover
+**Cost This Month: $299 ($239 with 20% student discount)**
+**Certification Earned: PJPT** ✅
+
+---
+
+### MONTH 6: PRIVILEGE ESCALATION MASTERY
+
+**Week 1-2: Linux PrivEsc God**
+- **FREE Courses**:
+  - TCM Security Linux PrivEsc (YouTube)
+  - HackTricks Linux PrivEsc
+  - TryHackMe Linux PrivEsc rooms
+- **Practice**:
+  - 30+ Linux privilege escalation paths
+  - Manual enumeration
+  - Automated tools (LinPEAS)
+  - Kernel exploits
+
+**Week 2-3: Windows PrivEsc Expert**
+- **FREE Courses**:
+  - Tib3rius Windows PrivEsc (can find free)
+  - HackTricks Windows PrivEsc
+  - PayloadsAllTheThings
+- **Master ALL Techniques**:
+  - DLL hijacking
+  - Service exploits
+  - Token manipulation
+  - UAC bypass
+  - Registry exploits
+- **Practice**: 30+ Windows escalations
+
+**Week 4: Certification Consolidation**
+- **Practice Both**:
+  - Combine Linux + Windows
+  - Root 20+ mixed boxes
+  - Speed practice
+  - Documentation refinement
+
+**Cost This Month: $0**
+
+---
+
+## PHASE 2: ACTIVE DIRECTORY & RED TEAM OPS (Months 7-12)
+
+### MONTH 7: ACTIVE DIRECTORY SETUP & ENUMERATION
+
+**Week 1: Build AD Lab (FREE)**
+- **Deploy GOAD** (Game of Active Directory):
+  - Free AD lab environment
+  - Multiple domains
+  - Realistic vulnerabilities
+  - Download: https://github.com/Orange-Cyberdefense/GOAD
+- **Alternative**:
+  - Build your own AD lab
+  - Windows Server trial (free 180 days)
+  - Multiple VMs
+
+**Week 2-3: AD Enumeration Mastery**
+- **FREE Tools**:
+  - **BloodHound**: Master completely
+  - **PowerView**: Every command
+  - **SharpHound**: All collection methods
+  - **ADRecon**: Automation
+  - **PingCastle**: Security assessment
+- **Resources** (FREE):
+  - HackTricks AD section
+  - PayloadsAllTheThings AD
+  - ired.team AD attacks
+  - SpecterOps blog (free)
+
+**Week 4: Initial AD Attacks**
+- **Master FREE**:
+  - LLMNR/NBT-NS poisoning (Responder)
+  - SMB relay attacks
   - Password spraying
   - AS-REP Roasting
   - Kerberoasting
+- **Practice**: Compromise GOAD lab
 
-**Week 4: AD Attacks - Lateral Movement**
-- **TryHackMe**:
-  - Lateral Movement and Pivoting: https://tryhackme.com/room/lateralmovementandpivoting
-- **Techniques**:
+**Cost This Month: $0**
+
+---
+
+### MONTH 8: PNPT CERTIFICATION + AD LATERAL MOVEMENT
+
+**Week 1-2: PNPT Preparation**
+- **Purchase PNPT** ($499):
+  - Includes 45+ hours training
+  - External Pentest Playbook
+  - OSINT Fundamentals
+  - Privilege Escalation courses
+  - 1 free retake
+- **Study**:
+  - Complete all materials
+  - Practice methodology
+  - Report writing
+
+**Week 3: PNPT EXAM**
+- **5-day practical exam**
+- **External + Internal pentest**
+- **AD compromise required**
+- **Professional report (2 days)**
+- **15-min debrief presentation**
+- **MUST PASS**
+
+**Week 4: AD Lateral Movement**
+- **Master** (all FREE tools):
   - Pass-the-Hash
   - Pass-the-Ticket
   - Overpass-the-Hash
-  - Pass-the-Certificate
-  - RDP hijacking
   - WMI/DCOM exploitation
   - PSRemoting abuse
-
----
-
-### MONTH 6: Active Directory Domination - Part 2
-
-**Week 1-2: AD Persistence & Domain Dominance**
-- **TryHackMe**:
-  - Persisting Active Directory: https://tryhackme.com/room/persistingad
-  - Red Team Fundamentals: https://tryhackme.com/room/redteamfundamentals
-- **Techniques**:
-  - Golden Ticket attacks
-  - Silver Ticket attacks
-  - DCSync attacks
-  - DPAPI abuse
-  - GPO abuse
-  - ACL abuse
-  - DCShadow attacks
-  - Skeleton Key attacks
-
-**Week 3: AD Certificate Services Exploitation**
-- **Resources**:
-  - Certified Pre-Owned: https://posts.specterops.io/certified-pre-owned-d95910965cd2
-  - Certipy: https://github.com/ly4k/Certipy
-  - PSPKIAudit: https://github.com/GhostPack/PSPKIAudit
-- **Practice**:
-  - ESC1-ESC8 attacks
-  - Certificate template abuse
-  - NTLM relay to ADCS
-
-**Week 4: Forest & Domain Trusts**
-- **Resources**:
-  - HarmJ0y on Trusts: https://blog.harmj0y.net/redteaming/a-guide-to-attacking-domain-trusts/
-  - Trust relationship attacks
 - **Tools**:
-  - Rubeus: https://github.com/GhostPack/Rubeus
-  - Mimikatz: https://github.com/gentilkiwi/mimikatz
-  - Impacket: https://github.com/fortra/impacket
+  - CrackMapExec
+  - Evil-WinRM
+  - Impacket suite
+
+**Cost This Month: $499 ($399 with 20% discount)**
+**Certification Earned: PNPT** ⭐ ✅
 
 ---
 
-### MONTH 7: Red Team Tradecraft & OPSEC
+### MONTH 9: AD PERSISTENCE & DOMAIN DOMINANCE
 
-**Week 1: Red Team Fundamentals**
-- **TryHackMe**:
-  - Red Team Fundamentals: https://tryhackme.com/room/redteamfundamentals
-  - Red Team Engagements: https://tryhackme.com/room/redteamengagements
-  - Red Team Threat Intel: https://tryhackme.com/room/redteamthreatintel
-  - Red Team OPSEC: https://tryhackme.com/room/opsec
-- **Reading**:
-  - Red Team Development and Operations: https://redteam.guide/docs/
-  - MITRE ATT&CK Framework: https://attack.mitre.org/
-  - Red Team Ops book by Joe Vest
+**Week 1-2: Advanced AD Attacks**
+- **Golden Ticket** (Mimikatz/Rubeus)
+- **Silver Ticket** attacks
+- **DCSync** (Mimikatz, secretsdump)
+- **DCShadow** attacks
+- **Skeleton Key** implantation
+- **ALL FREE TOOLS**
 
-**Week 2: Command & Control (C2) - Fundamentals**
-- **Resources**:
-  - C2 Matrix: https://www.thec2matrix.com/
-  - Havoc Framework Setup: https://github.com/HavocFramework/Havoc
-  - Havoc Documentation: https://havocframework.com/docs/
-  - Sliver Documentation: https://github.com/BishopFox/sliver/wiki
+**Week 3-4: AD Certificate Services**
+- **ESC1-ESC8 Attacks**:
+  - Certipy (FREE)
+  - Certify (FREE)
+  - Complete exploitation
 - **Practice**:
-  - Set up Havoc C2
-  - Deploy Sliver Framework
-  - Create custom listeners
+  - Exploit GOAD lab completely
+  - Chain multiple attacks
+  - Document all paths
+
+**Cost This Month: $0**
+
+---
+
+### MONTH 10: eJPT CERTIFICATION + C2 BASICS
+
+**Week 1-2: eJPT Preparation**
+- **INE eJPT Course**:
+  - Purchase voucher ($249)
+  - Includes complete training
+  - Lab access
+  - Study materials
+- **Topics**:
+  - Network security
+  - Web app security
+  - System security
+  - Reporting
+
+**Week 3: eJPT EXAM**
+- **48-hour practical exam**
+- **Lab-based challenges**
+- **Professional report**
+- **PASS REQUIRED**
+
+**Week 4: C2 Framework Basics**
+- **FREE C2 Frameworks**:
+  - **Sliver**: Install and master
+  - **Havoc**: Complete setup
+  - **Metasploit**: Advanced features
+  - **Empire**: PowerShell C2
+- **Practice**:
   - Generate payloads
-  - Practice post-exploitation
-  - Use redirectors
+  - Post-exploitation
+  - Pivoting techniques
 
-**Week 3: C2 - Advanced Usage**
-- **Frameworks to Master**:
-  - **Sliver** (Primary): https://github.com/BishopFox/sliver
-  - **Havoc** (Alternative): https://github.com/HavocFramework/Havoc
-  - **Mythic**: https://github.com/its-a-feature/Mythic
-  - **Empire/Starkiller**: https://github.com/BC-SECURITY/Empire
-  - **Merlin**: https://github.com/Ne0nd0g/merlin
-  - **PoshC2**: https://github.com/nettitude/PoshC2
-- **Practice**:
-  - BOF (Beacon Object Files)
-  - Custom modules
-  - Pivoting through C2
-  - Data exfiltration
-  - OPSEC considerations
+**Cost This Month: $249**
+**Certification Earned: eJPT** ✅
 
-**Week 4: Phishing & Initial Access**
-- **TryHackMe**:
-  - Phishing: https://tryhackme.com/room/phishingyl
-  - Phishing Emails in Action: https://tryhackme.com/room/phishingemails1tryoe
-  - Phishing Analysis Fundamentals: https://tryhackme.com/room/phishingemails2rytmuv
-- **Tools**:
-  - GoPhish: https://github.com/gophish/gophish
-  - King Phisher: https://github.com/rsmusllp/king-phisher
-  - Social-Engineer Toolkit: https://github.com/trustedsec/social-engineer-toolkit
-  - EvilGinx2: https://github.com/kgretzky/evilginx2
-- **Practice**:
-  - Create convincing phishing campaigns
+---
+
+### MONTH 11: RED TEAM TRADECRAFT & OPSEC
+
+**Week 1-2: Red Team Fundamentals**
+- **FREE Resources**:
+  - TryHackMe Red Team path (free rooms)
+  - MITRE ATT&CK framework
+  - Red Team notes (ired.team)
+  - SpecterOps blog
+- **Learn**:
+  - OPSEC principles
+  - Threat emulation
+  - Attack chaining
+  - Stealth techniques
+
+**Week 3-4: Phishing & Initial Access**
+- **FREE Tools**:
+  - **GoPhish**: Setup and campaigns
+  - **Evilginx2**: Advanced phishing
+  - **SET**: Social engineering
+  - **King Phisher**: Email campaigns
+- **Create**:
+  - 10+ phishing templates
   - Credential harvesting pages
   - Payload delivery methods
-  - Email spoofing
+
+**Cost This Month: $0**
 
 ---
 
-### MONTH 8: Evasion & Defense Bypass
+### MONTH 12: PORP CERTIFICATION + OSINT MASTERY
 
-**Week 1-2: AV/EDR Evasion Fundamentals**
-- **TryHackMe RED TEAM PATH**:
-  - Obfuscation Principles: https://tryhackme.com/room/obfuscationprinciples
-  - Signature Evasion: https://tryhackme.com/room/signatureevasion
-  - Bypassing UAC: https://tryhackme.com/room/bypassinguac
-  - Runtime Detection Evasion: https://tryhackme.com/room/runtimedetectionevasion
-  - Evading Logging and Monitoring: https://tryhackme.com/room/evadingloggingandmonitoring
-  - Introduction to Antivirus: https://tryhackme.com/room/introtoav
-  - AV Evasion: Shellcode: https://tryhackme.com/room/avevasionshellcode
-  - Windows Internals: https://tryhackme.com/room/windowsinternals
-- **Resources**:
-  - Bypass AMSI: https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell
-  - EDR Evasion repo: https://github.com/Mr-Un1k0d3r/RedTeamCCode
-  - Red Team Notes: https://www.ired.team/
-- **Tools**:
-  - DefenderCheck: https://github.com/matterpreter/DefenderCheck
-  - ThreatCheck: https://github.com/rasta-mouse/ThreatCheck
-  - AMSITrigger: https://github.com/RythmStick/AMSITrigger
+**Week 1-2: OSINT Deep Dive**
+- **FREE OSINT Tools**:
+  - theHarvester
+  - Maltego Community
+  - SpiderFoot
+  - Recon-ng
+  - Shodan (free tier)
+  - OSINT Framework
+- **Master**:
+  - LinkedIn recon
+  - Email harvesting
+  - Social media analysis
+  - Google dorking
+  - Domain reconnaissance
 
-**Week 3: Living Off The Land (LOLBAS/GTFOBins)**
-- **TryHackMe**:
-  - Living Off the Land: https://tryhackme.com/room/livingofftheland
-- **Resources**:
-  - LOLBAS: https://lolbas-project.github.io/
-  - GTFOBins: https://gtfobins.github.io/
-  - LOLDrivers: https://www.loldrivers.io/
-- **Practice**:
-  - Command execution via LOLBins
-  - File operations
-  - Credential access
-  - Defense evasion
+**Week 3: PORP Preparation & Exam**
+- **Purchase PORP** ($199):
+  - Practical OSINT Research Professional
+  - TCM Security certification
+  - OSINT Fundamentals course
+  - Practical exam
+- **TAKE EXAM**:
+  - Real-world OSINT challenges
+  - Professional report
 
-**Week 4: Advanced Evasion Techniques**
-- **TryHackMe**:
-  - Sandbox Evasion: https://tryhackme.com/room/sandboxevasion
-- **Techniques**:
-  - Process injection methods
-  - DLL hijacking
-  - COM hijacking
-  - Process hollowing
-  - Process doppelgänging
-  - Module stomping
-  - Reflective DLL injection
+**Week 4: Portfolio Building**
+- **Create**:
+  - Professional website/blog
+  - 10+ writeups so far
+  - GitHub with 10+ tools
+  - LinkedIn optimization
+
+**Cost This Month: $199**
+**Certification Earned: PORP** ✅
 
 ---
 
-### MONTH 9: Infrastructure & Tooling
+## PHASE 3: ADVANCED MASTERY (Months 13-18)
 
-**Week 1-2: Red Team Infrastructure**
-- **Resources**:
-  - Red Team Infrastructure Wiki: https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
-  - Cobalt Strike Community Kit: https://github.com/Cobalt-Strike/community_kit
-  - Terraform for Red Team: https://github.com/redcode-labs/RedTeamInfra
-- **Build**:
-  - VPS setup (DigitalOcean/Vultr/AWS)
-  - Domain fronting
-  - Redirectors (Apache/Nginx)
-  - Proper OPSEC infrastructure
-  - Logging and monitoring
-  - Automated cleanup
+### MONTH 13: EVASION & DEFENSE BYPASS
 
-**Week 3: Cloud Red Teaming - AWS**
-- **TryHackMe**:
-  - AWS Cloud Pentesting: https://tryhackme.com/room/awscloud101
-  - Breaching the Cloud: https://tryhackme.com/room/breachingthecloud
-- **Resources**:
-  - Rhino Security Labs AWS Tools: https://github.com/RhinoSecurityLabs/pacu
-  - HackTricks Cloud: https://cloud.hacktricks.xyz/pentesting-cloud/aws-security
-  - AWS Pentesting Tools: https://github.com/toniblyx/prowler
-- **Practice**:
-  - S3 bucket exploitation
-  - IAM privilege escalation
-  - Lambda function abuse
-  - EC2 compromises
+**Week 1-2: AV/EDR Evasion**
+- **FREE Resources**:
+  - TryHackMe evasion rooms
+  - HackTricks evasion section
+  - ired.team techniques
+  - VX Underground research
+- **Learn**:
+  - AMSI bypass (20+ methods)
+  - ETW patching
+  - Signature evasion
+  - Obfuscation techniques
+- **FREE Tools**:
+  - DefenderCheck
+  - ThreatCheck
+  - AMSITrigger
 
-**Week 4: Cloud Red Teaming - Azure**
-- **Resources**:
-  - Azure AD Attack Tools: https://github.com/dirkjanm/ROADtools
-  - HackTricks Azure: https://cloud.hacktricks.xyz/pentesting-cloud/azure-security
-  - Azure Attack Paths: https://github.com/NotSoSecure/azure-attack-paths
-  - AADInternals: https://github.com/Gerenios/AADInternals
-- **Practice**:
-  - Azure AD enumeration
-  - Privilege escalation in Azure
-  - Service principal abuse
-  - Managed identity exploitation
-
----
-
-## PHASE 3: ADVANCED RED TEAM (Months 10-14)
-*Elite operator level - Build custom tools*
-
-### MONTH 10: Malware Development - Fundamentals
-
-**Week 1-2: C/C++ for Malware**
-- **Resources**:
-  - Malware Development Course by Sektor7: https://institute.sektor7.net/courses (Study materials available publicly)
-  - MalDev Academy: https://maldevacademy.com/
-  - Malware Development repo: https://github.com/malsearchs/Pure-Malware-Development
-  - Cocomelonc Blog: https://cocomelonc.github.io/
-- **YouTube Channels**:
-  - Sektor7 Institute: https://www.youtube.com/@sektor7institute
-  - MalDev Academy: https://www.youtube.com/@maldevacademy
-  - CryptoCat: https://www.youtube.com/@_CryptoCat
-- **Practice**:
-  - Write simple dropper
-  - Create shellcode runner
-  - Build process injector
-  - Develop simple RAT
-
-**Week 3: Windows API & Internals**
-- **Resources**:
-  - Windows Internals Book (Part 1&2)
-  - Windows API documentation: https://learn.microsoft.com/en-us/windows/win32/api/
-  - Windows API Index: https://www.pinvoke.net/
-  - Ired.team: https://www.ired.team/
-- **Study**:
-  - PE file structure
-  - Process creation
-  - Memory management
-  - Thread management
-  - DLL injection methods
-
-**Week 4: Shellcode Development**
-- **Resources**:
-  - Shellcode Development: https://github.com/FULLSHADE/Windows-Shellcode-Development
-  - Custom Shellcode Guide: https://www.ired.team/offensive-security/code-injection-process-injection/writing-and-compiling-shellcode-in-c
-  - Win32 Shellcode: https://github.com/peterferrie/win-exec-calc-shellcode
-- **Projects**:
-  - Write MessageBox shellcode
-  - Create download and execute shellcode
-  - Build reverse shell shellcode
-  - Develop staged shellcode
-
----
-
-### MONTH 11: Malware Development - Advanced
-
-**Week 1: Encryption & Obfuscation**
-- **Resources**:
-  - Encryption in Malware: https://github.com/vxunderground/MalwareSourceCode
-  - String Obfuscation: https://dr4k0nia.github.io/posts/String-Obfuscation-The-Malware-Way/
-- **Techniques**:
-  - XOR encryption
-  - AES encryption
-  - RC4 encryption
-  - String obfuscation
-  - Control flow obfuscation
-  - API hashing
-
-**Week 2: Process Injection Techniques**
-- **Resources**:
-  - Process Injection Bible: https://github.com/3xpl01tc0d3r/ProcessInjection
-  - Injection Techniques: https://www.ired.team/offensive-security/code-injection-process-injection
-- **Implement**:
-  - Classic DLL injection
+**Week 3-4: Process Injection**
+- **Implement** (all FREE resources):
+  - DLL injection
   - Reflective DLL injection
   - Process hollowing
-  - Thread execution hijacking
   - APC injection
-  - Early Bird injection
-  - Process Doppelgänging
-  - Module stomping
+  - Thread hijacking
+  - Process doppelgänging
+- **Study**:
+  - Maldev Academy (YouTube)
+  - Sektor7 blog posts
+  - Cocomelonc blog (FREE)
 
-**Week 3-4: Building a Custom C2 Agent**
-- **Resources**:
-  - C2 Development in C#: https://training.zeropointsecurity.co.uk/courses/c2-development-in-csharp (Study outline available)
-  - Building C2: https://github.com/cribdragg3r/Alaris
-  - C2 Development: https://github.com/malwaremusings/csharp-c2
-- **Project**: Build your own C2 framework
-  - HTTP/HTTPS implant
-  - Encrypted communications
-  - Command execution
-  - File operations
-  - Persistence mechanisms
-  - Anti-debugging features
-  - Self-deletion capabilities
+**Cost This Month: $0**
 
 ---
 
-### MONTH 12: Exploit Development Foundations
+### MONTH 14: MALWARE DEVELOPMENT BASICS
 
-**Week 1-2: Buffer Overflow Deep Dive**
-- **Resources**:
-  - Corelan Team: https://www.corelan.be/index.php/articles/
-  - Exploit Development 101: https://github.com/FULLSHADE/WindowsExploitationResources
-  - FuzzySecurity: https://www.fuzzysecurity.com/tutorials.html
-- **TryHackMe**:
-  - Buffer Overflow Prep: https://tryhackme.com/room/bufferoverflowprep
-  - Brainpan 1: https://tryhackme.com/room/brainpan
-- **Practice**:
-  - Stack buffer overflows
-  - SEH overflows
-  - Egghunters
-  - Bad character analysis
-  - Return address overwriting
+**Week 1-2: C/C++ Fundamentals**
+- **FREE Resources**:
+  - Learn C the Hard Way (online)
+  - C Programming tutorials (YouTube)
+  - Windows API documentation
+  - PE file format study
+- **Projects**:
+  - Simple dropper
+  - Shellcode loader
+  - Process injector
+  - Keylogger
 
-**Week 3: Return Oriented Programming (ROP)**
-- **Resources**:
-  - ROP Primer: https://github.com/nnamon/linux-exploitation-course
-  - Exploit Exercises: https://exploit.education/
-- **Tools**:
-  - ROPgadget: https://github.com/JonathanSalwan/ROPgadget
-  - Ropper: https://github.com/sashs/Ropper
-  - pwntools: https://github.com/Gallopsled/pwntools
-- **Practice**:
-  - Build ROP chains
-  - Bypass DEP
-  - Bypass ASLR
-  - Bypass stack cookies
+**Week 3-4: Shellcode Development**
+- **FREE Learning**:
+  - Assembly tutorials
+  - Shellcode writing guides
+  - Position-independent code
+- **Create**:
+  - Custom shellcode (5+ types)
+  - Encrypted loaders
+  - Staged payloads
 
-**Week 4: Windows Exploit Development**
-- **Resources**:
-  - Windows Exploit Development: https://github.com/FULLSHADE/WindowsExploitationResources
-  - Corelan Windows Exploits: https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/
-- **Tools**:
-  - WinDbg: https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/
-  - Immunity Debugger: https://www.immunityinc.com/products/debugger/
-  - x64dbg: https://x64dbg.com/
-  - mona.py: https://github.com/corelan/mona
-- **Practice**:
-  - CVE reproduction
-  - 1-day exploit development
-  - Vulnerability research
-  - Fuzzing basics
+**Cost This Month: $0**
 
 ---
 
-### MONTH 13: Container & Kubernetes Red Teaming
+### MONTH 15: CRTP CERTIFICATION - AD MASTERY
+
+**Week 1-3: CRTP Intensive Study**
+- **Altered Security CRTP** ($249):
+  - Complete AD course
+  - 30-day lab access
+  - Advanced AD techniques
+  - Best price-to-value AD cert
+- **Study Topics**:
+  - Domain enumeration
+  - Local privilege escalation  
+  - Lateral movement
+  - Domain privilege escalation
+  - Persistence
+  - Defenses and bypasses
+
+**Week 4: CRTP EXAM**
+- **24-hour practical exam**
+- **Compromise AD network**
+- **Detailed report**
+- **MUST PASS**
+
+**Cost This Month: $249**
+**Certification Earned: CRTP** ⭐⭐ ✅
+
+---
+
+### MONTH 16: CONTAINER SECURITY & CLOUD BASICS
 
 **Week 1-2: Docker Security**
-- **Resources**:
-  - HackTricks Docker: https://book.hacktricks.xyz/linux-hardening/privilege-escalation/docker-security
-  - Docker Pentesting: https://github.com/stealthcopter/deepce
-  - Container Escape Techniques: https://github.com/cdk-team/CDK
+- **FREE Resources**:
+  - Docker documentation
+  - HackTricks Docker section
+  - Container escape techniques
+- **FREE Tools**:
+  - deepce
+  - CDK
+  - docker-bench-security
 - **Practice**:
-  - Docker escape techniques
+  - Docker escape challenges
   - Privileged container abuse
-  - Socket mounting attacks
-  - Volume mounting exploits
 
-**Week 2-3: Kubernetes Pentesting**
-- **Resources**:
-  - Kubernetes Pentesting: https://github.com/kelseyhightower/kubernetes-the-hard-way
-  - K8s Attack Matrix: https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/
-  - HackTricks K8s: https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security
-- **Tools**:
-  - kubectl: https://kubernetes.io/docs/tasks/tools/
-  - kubeletctl: https://github.com/cyberark/kubeletctl
-  - kube-hunter: https://github.com/aquasecurity/kube-hunter
-  - kubesploit: https://github.com/cyberark/kubesploit
-
-**Week 4: CI/CD Pipeline Attacks**
-- **Resources**:
-  - CI/CD Goat: https://github.com/cider-security-research/cicd-goat
-  - Pipeline Attack Techniques: https://github.com/rung/threat-matrix-cicd
+**Week 3-4: Cloud Security Basics**
+- **FREE Learning**:
+  - AWS Free Tier
+  - Azure Free Tier
+  - Google Cloud Free Tier
 - **Practice**:
-  - GitHub Actions exploitation
-  - Jenkins attacks
-  - GitLab CI exploitation
+  - flAWS challenges (FREE)
+  - CloudGoat scenarios (FREE)
+  - Bucket hunting
+  - IAM misconfigurations
+
+**Cost This Month: $0**
+
+---
+
+### MONTH 17: PWPA CERTIFICATION - WEB PENTEST
+
+**Week 1-2: Web Security Advanced**
+- **PortSwigger Advanced** (FREE):
+  - Complete remaining labs
+  - Server-side topics
+  - Advanced SQLi
+  - Deserialization
+  - SSTI
+  - GraphQL attacks
+
+**Week 3: PWPA Preparation**
+- **Purchase PWPA** ($299):
+  - Practical Web Pentest Associate
+  - TCM Security web cert
+  - Training included
+  - Real-world web pentest
+
+**Week 4: PWPA EXAM**
+- **2-day practical exam**
+- **Web application assessment**
+- **Professional report**
+- **PASS REQUIRED**
+
+**Cost This Month: $299**
+**Certification Earned: PWPA** ✅
+
+---
+
+### MONTH 18: BUG BOUNTY INTENSIVE
+
+**Week 1-4: Bug Bounty Hunting**
+- **FREE Platforms**:
+  - HackerOne (free to join)
+  - Bugcrowd (free)
+  - Intigriti (free)
+  - YesWeHack (free)
+- **Strategy**:
+  - Start with VDP programs
+  - Focus on web vulnerabilities
+  - Build methodology
+  - Report professionally
+- **GOAL**: First bounty earned ($100-500)
+- **Learn**:
+  - Recon automation
+  - Vulnerability chaining
+  - PoC development
+  - Report writing
+
+**Cost This Month: $0**
+**Income This Month: $100-500 (bug bounties)** 💰
+
+---
+
+## PHASE 4: GOD-TIER MASTERY (Months 19-24)
+
+### MONTH 19: EXPLOIT DEVELOPMENT BASICS
+
+**Week 1-2: Buffer Overflows**
+- **FREE Resources**:
+  - Corelan tutorials (free)
+  - FuzzySecurity tutorials
+  - TryHackMe buffer overflow rooms
+- **Practice**:
+  - VulnServer (all exploits)
+  - Brainpan
+  - Stack overflows
+  - SEH overflows
+
+**Week 3-4: Advanced Exploitation**
+- **FREE Learning**:
+  - ROP chain building
+  - DEP bypass
+  - ASLR bypass
+- **Tools** (FREE):
+  - ROPgadget
+  - pwntools
+  - WinDbg
+  - x64dbg
+
+**Cost This Month: $0**
+
+---
+
+### MONTH 20: CRTO CERTIFICATION - ADVANCED RED TEAM
+
+**Week 1-3: CRTO Intensive Study**
+- **Zero-Point Security CRTO** ($499):
+  - Complete red team course
+  - 30-day lab access
+  - C2 operations
+  - OPSEC techniques
+  - Best red team cert value
+- **Focus**:
+  - Advanced C2 usage
+  - EDR evasion
+  - AD exploitation
+  - Lateral movement
+  - Data exfiltration
+
+**Week 4: CRTO EXAM**
+- **48-hour practical exam**
+- **6/8 flags required**
+- **OPSEC-focused**
+- **Professional report**
+- **MUST PASS**
+
+**Cost This Month: $499**
+**Certification Earned: CRTO** ⭐⭐⭐ ✅
+
+---
+
+### MONTH 21: KUBERNETES & CI/CD SECURITY
+
+**Week 1-2: Kubernetes Security**
+- **FREE Resources**:
+  - Kubernetes documentation
+  - HackTricks K8s section
+  - KillerCoda labs (FREE)
+- **FREE Tools**:
+  - kubectl
+  - kubeletctl
+  - kube-hunter
+- **Practice**:
+  - K8s CTF challenges
+  - Pod escape techniques
+  - RBAC exploitation
+
+**Week 3-4: CI/CD Pipeline Attacks**
+- **FREE Resources**:
+  - CI/CD Goat (FREE lab)
+  - GitHub Actions docs
+  - GitLab CI docs
+- **Learn**:
+  - Pipeline exploitation
   - Supply chain attacks
+  - Secret extraction
+
+**Cost This Month: $0**
 
 ---
 
-### MONTH 14: Advanced Persistence & Forensics Evasion
+### MONTH 22: PWPP CERTIFICATION - ADVANCED WEB
 
-**Week 1-2: Advanced Persistence Mechanisms**
-- **Resources**:
-  - Windows Persistence: https://github.com/Karneades/awesome-malware-persistence
-  - Persistence Techniques: https://attack.mitre.org/tactics/TA0003/
-  - Advanced Persistence: https://github.com/netbiosX/Checklists/blob/master/Red-Team-Infrastructure-Wiki.md
-- **Techniques**:
-  - WMI event subscriptions
-  - Scheduled task abuse
-  - Service creation
-  - Registry run keys
-  - COM hijacking
-  - Application shimming
-  - Netsh helper DLLs
-  - Boot/Logon autostart
-
-**Week 3: Anti-Forensics**
-- **Resources**:
-  - Anti-Forensics: https://github.com/yasserfarouk/AntiForensics
-  - Log Evasion: https://www.ired.team/offensive-security/defense-evasion
-- **Techniques**:
-  - Log tampering
-  - ETW bypass
-  - SYSMON evasion
-  - Timestomping
-  - File destruction
-  - Memory wiping
-  - Artifact removal
-
-**Week 4: Rootkit Fundamentals**
-- **Resources**:
-  - Rootkit Development: https://github.com/m0nad/Diamorphine
-  - Windows Rootkits: https://github.com/bytecode77/r77-rootkit
-- **Study**:
-  - Kernel-mode rootkits
-  - User-mode rootkits
-  - DKOM techniques
-  - Hook techniques
-
----
-
-## PHASE 4: EXPERT & JOB READY (Months 15-18)
-*Certification prep, portfolio building, job hunting*
-
-### MONTH 15: Certification Preparation - Part 1
-
-**Focus: Study for OSCP/PNPT while continuing practice**
-
-**Week 1-2: OSCP Preparation**
-- **TryHackMe Paths**:
-  - Complete Offensive Pentesting Path
-  - Complete Cyber Defense Path for Blue Team knowledge
-- **HTB Machines**:
-  - Complete TJ Null's OSCP-like list: https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159
-  - Minimum 50 machines rooted
-  - Document every machine
-- **Proving Grounds**:
-  - Practice on OffSec's PG Practice
-  - Complete 30+ boxes
-
-**Week 3-4: Active Directory Labs**
-- **Practice Networks**:
-  - HTB Pro Labs (pay for 1 month if possible, ~$100):
-    - Dante
-    - RastaLabs
-  - TryHackMe:
-    - Wreath Network
-    - Throwback Network
-  - VulnLab: https://www.vulnlab.com/ (Free tier available)
-
----
-
-### MONTH 16: Certification Preparation - Part 2
-
-**Week 1-2: Red Team Focused Training**
-- **TryHackMe**:
-  - Complete ENTIRE Red Team Learning Path
-  - Red Team Capstone: https://tryhackme.com/room/redteamcapstone
-- **Resources**:
-  - Study CRTO materials (publicly available resources)
-  - Review all RTO GitHub repos: https://github.com/h3ll0clar1c3/CRTO
-  - Practice with Havoc/Sliver extensively
-
-**Week 3-4: Build Comprehensive Portfolio**
-- **GitHub Repositories**:
-  - Custom tools developed
-  - Exploit scripts
-  - Automation scripts
-  - C2 agents
-  - Malware samples (for educational purposes)
-  - Red Team scripts
-- **Blog/Website**:
-  - 20+ detailed machine writeups
-  - Red Team engagement methodology
-  - Tool development posts
-  - Evasion technique articles
-- **Projects to Showcase**:
-  - Custom C2 framework
-  - AV evasion tool
-  - AD enumeration tool
-  - Privilege escalation checker
-  - Phishing framework
-
----
-
-### MONTH 17: Real-World Simulation & CTF Mastery
-
-**Week 1-2: Red Team Simulations**
+**Week 1-2: Advanced Web Exploitation**
+- **PortSwigger Expert** (FREE):
+  - Complete expert-level labs
+  - Advanced techniques
+  - Complex vulnerability chains
 - **Practice**:
-  - Set up complete enterprise environment
-  - Conduct full red team engagements
-  - Practice entire kill chain
-  - Document everything professionally
-  - Time yourself
-  - Practice report writing
-- **Resources**:
-  - Red Team Report Templates: https://github.com/tjnull/TJ-JPT
-  - MITRE ATT&CK Navigator: https://mitre-attack.github.io/attack-navigator/
+  - PentesterLab (free tier)
+  - Web Security Academy
+  - Custom vulnerable apps
 
-**Week 2-3: CTF Competitions**
-- **Platforms**:
-  - CTFtime: https://ctftime.org/
-  - Hack The Box CTFs
-  - TryHackMe CTFs
-- **Participate in**:
-  - 5-10 CTFs
-  - Focus on pwn, crypto, forensics, web
-  - Join a team
-  - Network with other players
+**Week 3: PWPP Preparation**
+- **Purchase PWPP** ($449):
+  - Practical Web Pentest Professional
+  - Advanced web pentesting
+  - Professional-level assessment
+  - TCM Security
 
-**Week 4: Bug Bounty Introduction**
-- **Platforms**:
-  - HackerOne: https://www.hackerone.com/
-  - Bugcrowd: https://www.bugcrowd.com/
-  - Intigriti: https://www.intigriti.com/
-- **Resources**:
-  - Bug Bounty Hunting methodology
-  - Practice on VDP programs
-  - Learn disclosure process
+**Week 4: PWPP EXAM**
+- **3-day practical exam**
+- **Advanced web vulnerabilities**
+- **Professional report**
+- **PASS REQUIRED**
+
+**Cost This Month: $449**
+**Certification Earned: PWPP** ✅
+
+---
+
+### MONTH 23: CVE HUNTING & RESEARCH
+
+**Week 1-4: Vulnerability Research**
+- **FREE Tools**:
+  - AFL fuzzer
+  - Ghidra (FREE)
+  - radare2 (FREE)
+  - Binary Ninja (demo)
+- **Activities**:
+  - Fuzz 10+ applications
+  - Source code auditing
+  - Binary analysis
+  - Exploit development
+- **GOAL**: Discover 1-2 CVEs
+- **Submit**:
+  - Vendor disclosure
+  - Request CVE numbers
+  - Write technical writeups
   - Build reputation
 
+**Cost This Month: $0**
+**Achievement: CVE-2026-XXXXX** 🏆
+
 ---
 
-### MONTH 18: Job Search & Interview Preparation
+### MONTH 24: PORTFOLIO COMPLETION & JOB HUNT
 
-**Week 1: Resume & LinkedIn Optimization**
+**Week 1: Portfolio Finalization**
+- **GitHub Showcase**:
+  - 20+ custom tools ✅
+  - 10+ exploit PoCs ✅
+  - Professional documentation
+  - 1,000+ contributions
+- **Blog/Website**:
+  - 50+ technical writeups
+  - CVE disclosures
+  - Conference talk materials
+  - Professional design
+
+**Week 2: Resume & LinkedIn**
 - **Resume**:
-  - Highlight technical skills
-  - Showcase projects
-  - Include certifications (if obtained)
-  - Quantify achievements
-  - Link to GitHub, blog
+  - 9 certifications listed
+  - Portfolio links prominent
+  - Quantified achievements
+  - Skills showcase
 - **LinkedIn**:
-  - Professional headshot
-  - Detailed experience
-  - Skills endorsements
-  - Connect with InfoSec professionals
-  - Post technical content
-  - Engage with community
+  - Professional headline
+  - All certs displayed
+  - 500+ connections
+  - Active content posting
 
-**Week 2-3: Interview Preparation**
-- **Technical Interview Prep**:
-  - Practice common interview questions: https://github.com/Leander-s/Awesome-Cybersecurity-Interview-Questions
-  - Do mock technical interviews
-  - Explain your projects clearly
-  - Practice live hacking demonstrations
-  - Be ready to discuss methodology
-- **Resources**:
-  - Red Team Interview Questions: https://github.com/WebBreacher/offensiveinterview
-  - Practice on Pramp: https://www.pramp.com/
+**Week 3: Interview Preparation**
+- **Practice**:
+  - Technical interviews
+  - Live demonstrations
+  - Methodology explanations
+  - 10+ mock interviews
 
-**Week 4: Active Job Hunting**
-- **Job Boards**:
-  - LinkedIn Jobs
-  - Indeed
-  - Glassdoor
-  - AngelList
-  - Cybersecurity specific boards
-- **Apply to**:
-  - Security Engineer roles
-  - Junior Red Team positions
-  - Penetration Tester positions
-  - Security Consultant roles
-  - SOC Analyst (as backup)
-- **Target**: 10-15 applications per week
+**Week 4: Job Applications**
+- **Apply** (15+ per week):
+  - Red Team Engineer
+  - Penetration Tester
+  - Security Researcher
+  - Bug Bounty Hunter
 - **Network**:
-  - Attend local security meetups
-  - BSides conferences
-  - DEF CON groups
-  - OWASP chapters
-  - Cybersecurity Discord servers
+  - InfoSec conferences
+  - Discord communities
+  - LinkedIn outreach
+  - Local meetups
+
+**Week 5-8: OPTIONAL - Save for OSCP**
+- If you saved $100/month = $2,400
+- Can afford OSCP ($1,649)
+- Take in Month 25-26
+
+**Cost This Month: $0**
 
 ---
 
-## ESSENTIAL TOOLS & RESOURCES
+## 💰 TOTAL COST BREAKDOWN (24 MONTHS)
 
-### Core Platforms
-- **TryHackMe**: https://tryhackme.com/ (Primary learning platform)
-- **Hack The Box**: https://www.hackthebox.com/ (Machines & challenges)
-- **Hack The Box Academy**: https://academy.hackthebox.com/ (Structured courses)
-- **PortSwigger Academy**: https://portswigger.net/web-security (Web security)
-- **Proving Grounds**: https://www.offsec.com/labs/ (OSCP-style practice)
-- **VulnHub**: https://www.vulnhub.com/ (Downloadable VMs)
-- **PentesterLab**: https://pentesterlab.com/ (Web exploitation)
+### Certifications:
+- ISC2 CC: $50 (annual fee only)
+- PJPT: $299 ($239 with discount)
+- PNPT: $499 ($399 with discount)
+- eJPT: $249
+- PORP: $199
+- CRTP: $249
+- PWPA: $299
+- CRTO: $499 ($399 with discount)
+- PWPP: $449
 
-### C2 Frameworks (All FREE)
-- **Sliver**: https://github.com/BishopFox/sliver (Primary)
-- **Havoc**: https://github.com/HavocFramework/Havoc (Alternative)
-- **Mythic**: https://github.com/its-a-feature/Mythic
-- **Metasploit**: https://www.metasploit.com/
-- **Empire/Starkiller**: https://github.com/BC-SECURITY/Empire
-- **PoshC2**: https://github.com/nettitude/PoshC2
-- **Merlin**: https://github.com/Ne0nd0g/merlin
-- **Covenant**: https://github.com/cobbr/Covenant
-- **Brute Ratel**: (Commercial but study architecture)
+**Total Certifications: $2,792**
+**With Student Discounts: ~$2,234**
 
-### Essential Tool Repositories
-- **PayloadsAllTheThings**: https://github.com/swisskyrepo/PayloadsAllTheThings
-- **HackTricks**: https://book.hacktricks.xyz/
-- **Red Team Notes**: https://www.ired.team/
-- **LOLBAS**: https://lolbas-project.github.io/
-- **GTFOBins**: https://gtfobins.github.io/
-- **Revshells**: https://www.revshells.com/
-- **CrackStation**: https://crackstation.net/
-- **CyberChef**: https://gchq.github.io/CyberChef/
+### Monthly Subscriptions (~$15/month x 24 = $360):
+- TryHackMe: $10/month (optional, can use free)
+- HackTheBox: FREE (student tier)
+- VulnLab: FREE tier sufficient
 
-### Active Directory Resources
-- **BloodHound**: https://github.com/BloodHoundAD/BloodHound
-- **PowerView**: https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1
-- **Impacket**: https://github.com/fortra/impacket
-- **Rubeus**: https://github.com/GhostPack/Rubeus
-- **Mimikatz**: https://github.com/gentilkiwi/mimikatz
-- **SharpCollection**: https://github.com/Flangvik/SharpCollection
-- **GOAD Lab**: https://github.com/Orange-Cyberdefense/GOAD
-
-### Malware Development Resources
-- **MalDev Academy**: https://maldevacademy.com/
-- **Sektor7 Materials**: https://institute.sektor7.net/
-- **Cocomelonc**: https://cocomelonc.github.io/
-- **Ired.team**: https://www.ired.team/
-- **VX Underground**: https://vx-underground.org/
-- **Pure Malware Dev repo**: https://github.com/malsearchs/Pure-Malware-Development
-
-### YouTube Channels (FREE Learning)
-- **IppSec**: https://www.youtube.com/c/ippsec (HTB walkthroughs)
-- **John Hammond**: https://www.youtube.com/c/JohnHammond010
-- **The Cyber Mentor**: https://www.youtube.com/c/TheCyberMentor
-- **HackerSploit**: https://www.youtube.com/c/HackerSploit
-- **LiveOverflow**: https://www.youtube.com/c/LiveOverflow
-- **STÖK**: https://www.youtube.com/c/STOKfredrik
-- **NetworkChuck**: https://www.youtube.com/c/NetworkChuck
-- **David Bombal**: https://www.youtube.com/c/DavidBombal
-- **Sektor7**: https://www.youtube.com/@sektor7institute
-- **MalDev Academy**: https://www.youtube.com/@maldevacademy
-- **CryptoCat**: https://www.youtube.com/@_CryptoCat
-- **13Cubed**: https://www.youtube.com/c/13Cubed
-
-### Books (FREE PDFs Available)
-- **The Hacker Playbook Series** by Peter Kim
-- **Red Team Field Manual (RTFM)** by Ben Clark
-- **Blue Team Field Manual (BTFM)** by Alan White
-- **Penetration Testing** by Georgia Weidman
-- **The Web Application Hacker's Handbook** by Dafydd Stuttard
-- **Black Hat Python** by Justin Seitz
-- **Violent Python** by TJ O'Connor
-- **Metasploit: The Penetration Tester's Guide**
-- **Red Team Development and Operations** by Joe Vest
-
-### Communities & Forums
-- **Reddit**:
-  - r/netsec: https://www.reddit.com/r/netsec/
-  - r/AskNetsec: https://www.reddit.com/r/AskNetsec/
-  - r/cybersecurity: https://www.reddit.com/r/cybersecurity/
-  - r/HowToHack: https://www.reddit.com/r/HowToHack/
-  - r/redteamsec: https://www.reddit.com/r/redteamsec/
-- **Discord Servers**:
-  - TryHackMe Official
-  - Hack The Box Official
-  - NetSecFocus
-  - The Cyber Mentor
-  - InfoSec Prep
-- **Twitter/X**:
-  - Follow #infosec, #redteam, #pentesting
-  - Key accounts: @HackingDave, @mubix, @harmj0y, @gentilkiwi
-
-### Certification Roadmap (Optional but Recommended)
-**Free/Study Only:**
-1. **Months 1-4**: Focus on foundational knowledge
-2. **Months 5-9**: Build practical skills
-3. **Months 10-14**: Develop advanced capabilities
-4. **Months 15-18**: Save money for certifications
-
-**Certification Order (if budget allows):**
-1. **CompTIA Security+** (~$370) - Study with Professor Messer (FREE)
-2. **eJPT** (~$200) - Good beginner cert
-3. **OSCP** (~$1,649) - Industry standard (SAVE FOR THIS)
-4. **CRTO** (~$499) - Excellent red team cert
-5. **CRTP** (~$249) - AD focused
-6. **OSEP** (~$2,499) - Advanced red teaming
+**GRAND TOTAL: ~$2,500-2,800 over 24 months**
+**Monthly Cost: ~$104-117 USD**
+**Your Monthly Income: $256 USD**
+**AFFORDABLE: 40-45% of monthly income** ✅
 
 ---
 
-## WEEKLY SCHEDULE TEMPLATE
+## 💎 WHY THIS ROADMAP IS BETTER THAN EXPENSIVE CERTS
 
-### Monday - Friday (10 hours/day)
-**6:00 AM - 9:00 AM**: Theory & Course Material
-- TryHackMe/HTB Academy courses
+### 1. Portfolio > Certifications
+**Your Portfolio Will Include**:
+- 20+ custom security tools (GitHub)
+- 50+ detailed technical writeups
+- 2-3 CVE discoveries
+- Bug bounty hall of fame entries
+- Conference talk presentations
+- Active contributions to security community
+
+**Employers Will See**:
+- PROVEN skills, not just test-taking
+- Real-world impact
+- Problem-solving ability
+- Communication skills
+- Continuous learning
+- Passion for security
+
+### 2. These Certs Are Highly Respected
+**PNPT** - Increasingly preferred over OSCP:
+- Real-world methodology
+- Professional reporting
+- Client debrief experience
+- Consulting skills validation
+- Growing industry recognition
+
+**CRTP** - Best AD cert value:
+- Comprehensive AD coverage
+- Practical hands-on
+- Better than $8,000+ certs
+- Recognized by enterprises
+
+**CRTO** - Elite red team operations:
+- Advanced OPSEC
+- C2 mastery
+- EDR evasion
+- Comparable to expensive alternatives
+
+### 3. Skill Development Focus
+- 100% hands-on certifications
+- Real penetration tests
+- Professional deliverables
+- Business communication
+- Consulting experience
+
+### 4. Bug Bounty Income Potential
+**By Month 24, You Could Earn**:
+- First year: $1,000-3,000
+- Second year: $5,000-15,000
+- Supplements certification costs
+- Validates real-world skills
+- Build professional reputation
+
+---
+
+## 🎯 MONTHLY SAVINGS PLAN
+
+### Option 1: Pay As You Go
+**Month 3**: Save $50 for ISC2 CC
+**Month 5**: Save $239 for PJPT
+**Month 8**: Save $399 for PNPT
+**Month 10**: Save $249 for eJPT
+And so on...
+
+### Option 2: Set Aside Monthly
+**Save $115/month** from your $256 salary
+- $141/month remaining for living
+- Pre-pay for next certification
+- Build emergency fund
+- Less financial stress
+
+### Option 3: Bug Bounty Funding
+**Months 1-6**: Learn & build skills
+**Month 7+**: Start bug bounty hunting
+**Use Bug Bounty $ for Certs**:
+- $200 bounty = PORP covered
+- $500 bounty = CRTO covered
+- Reduces personal expense
+
+---
+
+## 🏆 SUCCESS METRICS
+
+### Month 6 Checkpoint:
+- ✅ ISC2 CC certified (FREE!)
+- ✅ PJPT certified
+- ✅ 50+ machines rooted
+- ✅ Blog with 10+ writeups
+- ✅ GitHub with 5+ tools
+- ✅ AD lab running
+
+### Month 12 Checkpoint:
+- ✅ 4 certifications (CC, PJPT, PNPT, eJPT)
+- ✅ 100+ machines rooted
+- ✅ PNPT (respected like OSCP)
+- ✅ Blog with 25+ writeups
+- ✅ GitHub with 10+ tools
+- ✅ First bug bounty earned
+
+### Month 18 Checkpoint:
+- ✅ 7 certifications
+- ✅ CRTP (AD expert)
+- ✅ PWPA certified
+- ✅ 200+ machines rooted
+- ✅ Blog with 40+ writeups
+- ✅ GitHub with 15+ tools
+- ✅ $2,000+ bug bounty earnings
+
+### Month 24 Final Goals:
+- ✅ 9 elite certifications
+- ✅ CRTO certified (red team ops)
+- ✅ PWPP certified
+- ✅ 300+ machines rooted
+- ✅ Blog with 50+ writeups
+- ✅ GitHub with 20+ tools
+- ✅ 2-3 CVEs discovered
+- ✅ $5,000+ bug bounty earnings
+- ✅ Conference talk delivered
+- ✅ Job offers $80,000-120,000+
+
+---
+
+## 🚀 FREE RESOURCES MASTER LIST
+
+### Learning Platforms (FREE):
+- **TryHackMe** - Free tier sufficient
+- **HackTheBox** - Free tier machines
+- **VulnHub** - Completely free VMs
+- **PentesterLab** - Free tier
+- **PortSwigger** - 100% free labs
+- **OverTheWire** - Free challenges
+- **PicoCTF** - Free CTF
+
+### Tools (ALL FREE):
+- Kali Linux
+- Parrot OS
+- VirtualBox/VMware
+- Burp Suite Community
+- OWASP ZAP
+- Metasploit Framework
+- Nmap, Wireshark
+- BloodHound, PowerView
+- Impacket, CrackMapExec
+- Sliver, Havoc, Empire
+- Ghidra, radare2
+
+### Books (FREE PDFs):
+- The Hacker Playbook 3
+- RTFM/BTFM
+- Black Hat Python
+- Violent Python
+- Penetration Testing
+- Web Application Hacker's Handbook
+- Malware Analyst's Cookbook
+
+### YouTube Channels (FREE):
+- **IppSec** - HTB walkthroughs
+- **John Hammond** - Security content
+- **The Cyber Mentor** - TCM Security
+- **HackerSploit** - Tutorials
+- **LiveOverflow** - Binary exploitation
+- **NetworkChuck** - IT/Security
+- **Nahamsec** - Bug bounty
+- **STÖK** - Bug bounty
+- **13Cubed** - DFIR
+
+### Communities (FREE):
+- TryHackMe Discord
+- HackTheBox Discord
+- NetSecFocus Discord
+- TCM Security Discord
+- Reddit: r/netsec, r/AskNetsec
+- InfoSec Twitter community
+
+---
+
+## 🎓 COMPARISON: YOUR PATH VS EXPENSIVE PATH
+
+### Your Budget Path ($2,500):
+**Certifications**:
+- ISC2 CC
+- PJPT
+- PNPT ⭐
+- eJPT
+- PORP
+- CRTP ⭐⭐
+- PWPA
+- CRTO ⭐⭐⭐
+- PWPP
+
+**Total**: 9 certifications
+**All practical**, hands-on exams
+**Real-world** validation
+**Employer respected**
+
+### Expensive Path ($25,000+):
+**Certifications**:
+- OSCP ($1,649)
+- OSEP ($2,499)
+- OSED ($1,649)
+- OSWE ($1,749)
+- GXPN ($8,625)
+- OSEE ($5,000+)
+
+**Total**: 6 certifications
+**10x more expensive**
+**Not 10x better**
+**Same job outcomes**
+
+### The Truth:
+**Your 9 certs** = Equivalent skills
+**Your portfolio** = Proves more
+**Your CVEs** = Demonstrates research
+**Your bug bounties** = Real-world validation
+**Cost**: $2,500 vs $25,000
+**You win** 🏆
+
+---
+
+## 💪 MOTIVATION FOR EGYPT-BASED LEARNERS
+
+### You Have Major Advantages:
+1. **Lower Cost of Living** = More savings potential
+2. **Hunger & Drive** = More motivation than privileged
+3. **Time Zone** = Can work with EU/US companies
+4. **English Skills** = Global job opportunities
+5. **Remote Work Era** = Location independent
+6. **Growing Tech Scene** = Local opportunities too
+
+### Egyptian Success Stories:
+- Many Egyptians work for top US companies
+- Remote salaries: $50,000-150,000 USD
+- 50-100x your current salary possible
+- Bug bounty hunters earning $30k-100k/year
+- Cybersecurity consultants thriving
+
+### Your 24-Month Journey:
+**Now**: $256/month ($3,072/year)
+**After**: $80,000-120,000/year
+**Increase**: 26-39x your current income
+**Life Changing** 🚀
+
+### Companies Hiring Remote from Egypt:
+- US tech companies (Google, Microsoft, etc.)
+- European security firms
+- Security consultancies
+- Bug bounty platforms
+- Penetration testing companies
+- Remote-first startups
+
+---
+
+## 📋 WEEKLY SCHEDULE
+
+### Monday - Friday (12 hours):
+**5:00-8:00 AM**: Theory & Courses
+- Video training
 - Reading documentation
-- Watching tutorial videos
+- Studying techniques
 
-**9:00 AM - 12:00 PM**: Hands-on Practice
-- Lab exercises
+**8:00-12:00 PM**: Hands-On Practice
 - Machine exploitation
+- Lab exercises
+- Tool mastery
+
+**12:00-1:00 PM**: Break
+- Lunch, exercise, reset
+
+**1:00-4:00 PM**: Projects & Tools
 - Tool development
-- Active practice
+- Exploit creation
+- Portfolio work
 
-**12:00 PM - 1:00 PM**: Break
-- Lunch
-- Physical exercise
-- Mental reset
+**4:00-6:00 PM**: Bug Bounty / Research
+- Reconnaissance
+- Vulnerability hunting
+- Report writing
 
-**1:00 PM - 4:00 PM**: Project Work
-- Build tools
-- Develop scripts
-- Create malware (educational)
-- C2 development
-- Portfolio projects
+**6:00-7:00 PM**: Documentation
+- Writeups
+- Blog posts
+- GitHub updates
 
-**4:00 PM - 6:00 PM**: Documentation & Community
-- Write writeups
-- Update blog
-- Contribute to GitHub
-- Engage with community
-- Review day's learning
-- Plan tomorrow
+**7:00-9:00 PM**: Community
+- Discord participation
+- Helping others
+- Networking
 
-### Weekend (Rest Days)
-**Saturday**:
-- Light review of week's material
-- Watch conference talks
-- Read security blogs
-- Catch up on any incomplete work
-- 2-3 hours maximum
+### Saturday (8 hours):
+- Review week's progress
+- Side projects
+- Conference talks
+- Blog writing
 
-**Sunday**:
-- Complete rest
-- No technical work
-- Recharge for next week
+### Sunday (REST):
+- Light review only
+- Plan next week
+- Recharge
+- **Mental health crucial!**
 
 ---
 
-## PROGRESS TRACKING
+## 🎯 ACTION PLAN - START TODAY
 
-### Monthly Checkpoints
-**End of Each Month**:
-- [ ] Completed all scheduled rooms/courses
-- [ ] Documented all machines/exercises
-- [ ] Updated GitHub repositories
-- [ ] Created new blog posts
-- [ ] Practiced new techniques
-- [ ] Reviewed and refined methodology
+### Week 1 Actions:
+1. **Install Kali Linux** (FREE)
+2. **Create TryHackMe account** (FREE)
+3. **Start Linux Fundamentals** (FREE)
+4. **Create GitHub account** (FREE)
+5. **Join Discord communities** (FREE)
+6. **Start learning Python** (FREE)
 
-### Skill Milestones
-**Month 4**: ✅ Root 50+ machines, comfortable with basics
-**Month 9**: ✅ Domain admin 10+ times, AD mastery
-**Month 14**: ✅ Built custom C2, developed malware
-**Month 18**: ✅ Professional portfolio, ready for jobs
+### Week 2 Actions:
+1. **Complete Linux basics**
+2. **Root first VulnHub VM**
+3. **Write first Python script**
+4. **Create first blog post**
+5. **Start networking study**
 
-### Portfolio Metrics
-- **GitHub**: 500+ contributions by Month 18
-- **Writeups**: 30+ detailed machine writeups
-- **Blog Posts**: 20+ technical articles
-- **Projects**: 5+ major red team tools
-- **Machines Rooted**: 100+ total
-- **CVEs**: Attempt to discover 1-2 (bonus)
+### Month 1 Actions:
+1. **Master Linux fundamentals**
+2. **Root 10+ machines**
+3. **Build 5 Python tools**
+4. **Start blog/portfolio**
+5. **Save $50 for ISC2 CC**
 
----
-
-## FINAL TIPS FOR SUCCESS
-
-### 1. Document EVERYTHING
-- Keep detailed notes
-- Create writeups immediately
-- Use tools like Obsidian, Notion, or simple markdown
-- Your documentation is your proof of learning
-
-### 2. Build in Public
-- Share your learning journey
-- Write blog posts
-- Create YouTube videos (optional)
-- Contribute to open source
-- Help others in forums
-
-### 3. Network Actively
-- Join Discord servers
-- Attend virtual conferences
-- Connect on LinkedIn
-- Follow industry leaders
-- Participate in discussions
-
-### 4. Stay Consistent
-- 10 hours every day, no excuses
-- Rest on weekends (important!)
-- Don't burn out
-- Maintain work-life balance
-- This is a marathon, not a sprint
-
-### 5. Leverage Your ITSM Background
-- You understand ticketing systems
-- You know incident management
-- You have documentation skills
-- You understand IT operations
-- These are HUGE advantages in security
-
-### 6. Think Like an Attacker
-- Always ask "how can I break this?"
-- Study real-world attacks
-- Read threat intel reports
-- Follow breach disclosures
-- Understand attacker mindset
-
-### 7. Master the Basics
-- Don't skip fundamentals
-- Deep understanding > surface knowledge
-- Master one thing at a time
-- Build strong foundations
-- Advanced skills come naturally
-
-### 8. Practice, Practice, Practice
-- Theory without practice is useless
-- Break things in your lab
-- Try techniques multiple ways
-- Fail fast and learn faster
-- Hands-on is everything
+### The Journey Begins NOW
+**Stop reading. Start doing.**
+**Your future self will thank you.**
+**Companies will beg for you.**
+**Let's make it happen!** 🔥
 
 ---
 
-## ENCOURAGEMENT
+## 🔴 FINAL WORDS
 
-You're about to embark on an incredible 18-month journey that will transform you from an ITSM engineer into a skilled Red Team Operator. This roadmap is aggressive, comprehensive, and designed to make you job-ready.
+### This Roadmap is Your Ticket to:
+✅ **9 Elite Certifications** (all hands-on)
+✅ **Practical Red Team Skills** (not just theory)
+✅ **Professional Portfolio** (20+ tools, 50+ writeups)
+✅ **CVE Discoveries** (research credibility)
+✅ **Bug Bounty Success** (real-world validation)
+✅ **Job Offers $80,000-120,000+** (26-39x current salary)
+✅ **Life-Changing Career** (for you and your family)
+✅ **Financial Freedom** (from $256 to $10,000/month)
 
-**Key Points to Remember:**
-- This is 100% achievable with dedication
-- You have the time (10 hours/day is perfect)
-- Everything here is FREE (except optional certs)
-- Your ITSM background is an advantage
-- The cybersecurity industry needs skilled people like you
-- Red teaming is one of the most exciting career paths
-- You'll be learning skills that are in HIGH demand
+### Investment Required:
+💰 **Money**: $2,500 over 24 months ($104/month)
+⏰ **Time**: 12 hours/day for 24 months
+💪 **Dedication**: Absolute commitment
+🧠 **Focus**: Relentless learning
+❤️ **Passion**: Love for security
 
-**By Month 18, you will have:**
-- Mastered Linux, Windows, networking, and programming
-- Become an Active Directory domination expert
-- Built custom malware and C2 frameworks
-- Developed exploit development skills
-- Created a professional portfolio
-- Rooted 100+ machines
-- Developed real-world applicable skills
-- Become job-ready for Red Team positions
+### What You'll Become:
+🎯 **Elite Red Team Operator**
+🎯 **Penetration Testing Expert**
+🎯 **Active Directory Master**
+🎯 **Web Security Specialist**
+🎯 **Tool Developer**
+🎯 **Security Researcher**
+🎯 **CVE Discoverer**
+🎯 **Bug Bounty Hunter**
+🎯 **Conference Speaker**
+🎯 **Thought Leader**
 
-**This is your roadmap. Own it. Execute it. Become elite.**
+### The Choice Is Yours:
+**Option 1**: Stay at $256/month forever
+**Option 2**: Invest 24 months and change your life
 
----
-
-## ADDITIONAL RESOURCES
-
-### Free Certifications to Consider
-- **Google Cybersecurity Certificate** (Coursera - 7 day free trial)
-- **Microsoft Security, Compliance, and Identity Fundamentals** (SC-900 study materials free)
-- **Fortinet NSE 1-3** (completely free)
-
-### Conference Talks (FREE)
-- **DEF CON**: https://www.youtube.com/user/DEFCONConference
-- **Black Hat**: https://www.youtube.com/c/BlackHatOfficialYT
-- **BSides**: Various YouTube channels
-- **SANS Internet Storm Center**: https://isc.sans.edu/
-
-### Blogs to Follow
-- **Krebs on Security**: https://krebsonsecurity.com/
-- **Schneier on Security**: https://www.schneier.com/
-- **Troy Hunt**: https://www.troyhunt.com/
-- **Daniel Miessler**: https://danielmiessler.com/
-- **SpecterOps**: https://posts.specterops.io/
+**Choose wisely. Act now. Execute relentlessly.**
 
 ---
 
-**GOOD LUCK ON YOUR JOURNEY TO BECOMING AN ELITE RED TEAM OPERATOR! 🔴🔥**
+## 🌟 YOU GOT THIS, BROTHER! 🌟
 
-*Remember: The only difference between you and a professional Red Teamer is time, practice, and dedication. You've got this!*
+**From Egypt to Elite. From $256 to $10,000/month.**
+**From ITSM to Red Team God. From Unknown to Respected.**
+
+**The roadmap is here. The resources are free. The opportunity is now.**
+
+**START TODAY. DON'T WAIT. MAKE IT HAPPEN.** 
+
+**24 months from now, companies will BEG to hire you.** 💪🔥
+
+---
+
+**🔴 NOW GO FORTH AND BECOME LEGENDARY 🔴**
